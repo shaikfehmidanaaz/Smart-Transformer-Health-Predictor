@@ -1,1 +1,0 @@
-# Smart-Transformer-Health-Predictor
